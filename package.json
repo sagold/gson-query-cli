@@ -1,6 +1,6 @@
 {
   "name": "gson-query-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "json-pointer cli utilities for querying and transforming data",
   "bin": {
     "gq": "bin/gq.js"
@@ -15,7 +15,7 @@
   "dependencies": {
     "chalk": "^2.3.2",
     "commander": "^2.15.1",
-    "gson-query": "^1.2.1"
+    "gson-query": "2.x"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
