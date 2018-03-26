@@ -1,4 +1,4 @@
-# gson query cli
+<h1 align="center"><img src="./docs/gson-query-cli.png" width:"228" alt="gson-query"></h1>
 
 > Query and transform your json data using an extended glob-pattern. This is a really helpful tool to quickly
 >
