@@ -1,0 +1,34 @@
+{
+  "name": "gson-query-cli",
+  "version": "1.0.0",
+  "description": "json-pointer cli utilities for querying and transforming data",
+  "bin": {
+    "gq": "bin/gq.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagold/gson-query-cli.git"
+  },
+  "scripts": {
+    "lint": "eslint lib bin"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "commander": "^2.15.1",
+    "gson-query": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-promise": "^3.7.0"
+  },
+  "keywords": [
+    "cli",
+    "query",
+    "json",
+    "json-pointer",
+    "glob-pattern",
+    "library"
+  ],
+  "author": "Sascha Goldhofer <noreply@saschagoldhofer.de> (https://github.com/sagold/)",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+*.zip
+*.tmp
