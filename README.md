@@ -31,6 +31,7 @@ or read a file directly `gq -f package.json '/keywords/*'`
 
 # Query
 
+The query syntax is explained in detail at [gson-query#query](https://github.com/sagold/gson-query#query)
 
 
 # Options
