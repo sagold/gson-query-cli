@@ -1,6 +1,6 @@
 {
   "name": "gson-query-cli",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "json-pointer cli utilities for querying and transforming data",
   "bin": {
     "gq": "bin/gq.js"
