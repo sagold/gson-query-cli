@@ -15,7 +15,7 @@
   "dependencies": {
     "chalk": "^2.3.2",
     "commander": "^2.15.1",
-    "gson-query": "2.x"
+    "gson-query": "4.x"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
